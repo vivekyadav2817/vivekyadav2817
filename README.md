@@ -1,26 +1,59 @@
-# Hi there, I'm Vivek Yadav!
+<h2 align="left">
+Hi, I’m Vivek 👋  
+I’m building my career as a Data Analyst, focused on turning raw data into meaningful insights that drive smarter business decisions. With a background in sales and an MBA in Finance, I bring a strong understanding of business problems and translate them into data-driven solutions.
 
-MBA Graduate transitioning into Data Analytics.
-📊 Passionate about turning raw data into business insights.
+I work with tools like Excel and SQL to analyze data at a granular level, and use Power BI to create clear, impactful dashboards that help stakeholders take action. My approach is simple—understand the problem, analyze the data, and deliver insights that actually make a difference.
 
-## About Me 
-💼 MIS Specialist & Data Analyst | SQL | Power BI | Excel
-- Skills: SQL · Power BI · Excel · Python
-- Email: kelravi022@gmail.com
+For me, data analysis is not just about numbers—it’s about uncovering patterns, optimizing performance, and helping businesses grow efficiently.
+</h2>
 
-## My Projects
-| Project | Tools Used | Description |
-|---|---|---|
-| IT Ticket Analysis | Excel, Power BI | Operational efficiency insights |
-| IPL Performance Analysis | MySQL | RCB strategic insights |
+###
 
-## Connect with me :  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav2817)
+<img align="right" height="120" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtkanlvdnMwcTc5NGZsbGNzbXY0MWJ6MnhpZWIwNno4aTJwY21hcyZlcD12MV9pbnRlcnJhbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Tech Stack
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+</div>
 
+###
+
+<div align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+</div>
+
+###
+
+### 📊 About My Work
+
+Thank you for visiting my GitHub profile. The projects here reflect my journey into data analytics and my ability to solve real business problems using data.
+
+Each repository includes:
+- Clear project objectives  
+- Structured analysis approach  
+- Tools and techniques used  
+- Actionable business insights  
+
+I focus not just on analysis, but on delivering insights that can drive decisions—whether it's improving revenue, optimizing discounts, or understanding customer behavior.
+
+###
+
+## 🚀 My Approach
+
+As a data analyst, I don’t rely on assumptions—I let data guide decisions.  
+Using Excel, SQL, and Power BI, I uncover patterns, identify opportunities, and transform data into clear, actionable insights that create real business impact.
