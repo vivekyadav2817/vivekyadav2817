@@ -1,7 +1,7 @@
 # Hi there, I'm Vivek Yadav!
 
 MBA Graduate transitioning into Data Analytics.
-Passionate about turning raw data into business insights.
+📊 Passionate about turning raw data into business insights.
 
 ## About Me 
 💼 MIS Specialist & Data Analyst | SQL | Power BI | Excel
