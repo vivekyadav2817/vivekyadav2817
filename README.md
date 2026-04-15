@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Vivek Yadav!
 
-<!--
-**vivekyadav2817/vivekyadav2817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA Graduate transitioning into Data Analytics.
+Passionate about turning raw data into business insights.
 
-Here are some ideas to get you started:
+## About Me
+- Currently learning: Python & Advanced SQL
+- Skills: SQL · Power BI · Excel · Python
+- Email: kelravi022@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+| Project | Tools Used | Description |
+|---|---|---|
+| IT Ticket Analysis | Excel, Power BI | Operational efficiency insights |
+| IPL Performance Analysis | MySQL | RCB strategic insights |
+
+## Connect with me
