@@ -23,7 +23,7 @@
 <a href="mailto:youractualemail@gmail.com">
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/vivekyadav2817/)" target="_blank">
+<a href="https://www.linkedin.com/in/vivekyadav2817/"target="_blank">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
