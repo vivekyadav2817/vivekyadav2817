@@ -1,67 +1,70 @@
-<h2 align="left">
-Hi, I’m Vivek 👋  
-</h2>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-8a64f1a8-cc1f-4f3a-9f8b-4c9d3b6a6e0e.gif)](https://github.com/vivekyadav2817)
 
-<p align="left">
-I’m building my career as a <b>Data/Business Analyst</b>, focused on transforming raw data into actionable insights that drive smarter business decisions.  
+<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
+<h3 align="center">Data Analyst | SQL • Power BI • Excel • Python</h3>
 
-I have hands-on experience in <b>SQL, Power BI, Excel, and Python</b> (NumPy, Pandas), where I analyze data, build dashboards, and uncover trends that improve performance.  
-
-Currently, I’m expanding my skills in <b>Machine Learning, Generative AI, and Large Language Models (LLMs)</b>.  
-
-I’m passionate about solving real-world problems using data and delivering insights that create measurable business impact.
-</p>
+<img align="right" alt="Analytics" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-<img align="right" height="140" width="320" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtkanlvdnMwcTc5NGZsbGNzbXY0MWJ6MnhpZWIwNno4aTJwY21hcyZlcD12MV9pbnRlcnJhbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+### 🚀 About Me
 
----
-
-### 🛠 Skills & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30"/>
-</div>
+- 🔍 Focused on **transforming data into actionable business insights**  
+- 📊 Skilled in **SQL, Power BI, Excel, and Python (NumPy, Pandas)**  
+- 📈 Experienced in **data analysis, dashboarding, and KPI tracking**  
+- 🤖 Currently learning **Machine Learning, Generative AI & LLMs**  
+- 📫 Reach me at: **youractualemail@gmail.com**  
 
 ---
 
 ### 📬 Connect with Me
-<div align="left">
-  <a href="mailto:youractualemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <img width="10"/>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-</div>
+<p align="left">
+<a href="mailto:youractualemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 📊 About My Work
-
-My projects demonstrate my ability to analyze data, build dashboards, and generate insights that solve real business problems.  
-
-Each project includes:
-- Clear problem statements  
-- Structured analytical approach  
-- Tools and methodologies used  
-- Actionable business insights  
-
-I focus on delivering insights that drive decisions—whether it's improving revenue, optimizing operations, or understanding customer behavior.
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,python,pandas,numpy" />
+</p>
 
 ---
 
-## 🚀 My Approach
+### 📌 Featured Projects
 
-I believe data should guide decisions, not assumptions.  
+- 🏏 **IPL Performance Analysis** (SQL + Excel)  
+- 🛒 **Amazon E-Commerce Dashboard** (Power BI)  
+- 🎫 **IT Ticket Analysis** (Excel Dashboard)  
 
-Using SQL, Excel, Power BI, and Python, I identify patterns, uncover opportunities, and translate complex data into clear, impactful insights that support business growth.
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav2817&show_icons=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav2817&layout=compact" />
+</p>
+
+---
+
+### 🔥 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav2817)
+
+---
+
+### ⚡ My Approach
+
+I believe in letting data drive decisions.  
+I focus on uncovering patterns, solving business problems, and delivering insights that create measurable impact.
+
+---
