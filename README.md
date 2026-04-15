@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔍 Focused on **transforming data into actionable business insights**  
+- 🔍 Focused on **Transforming data into Actionable Business Insights**  
 - 📊 Skilled in **SQL, Power BI, Excel, and Python (NumPy, Pandas)**  
-- 📈 Experienced in **data analysis, dashboarding, and KPI tracking**  
+- 📈 Experienced in **Data Analysis, Dashboarding, and KPI tracking**  
 - 🤖 Currently learning **Machine Learning, Generative AI & LLMs**  
-- 📫 Reach me at: **youractualemail@gmail.com**  
+- 📫 Reach me at: **kelravi022@gmail.com**  
 
 ---
 
