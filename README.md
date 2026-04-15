@@ -31,10 +31,19 @@
 ---
 
 ### 🛠️ Tools & Technologies
+
 <p align="left">
+  <!-- Core Tools -->
   <img src="https://skillicons.dev/icons?i=mysql,python,pandas,numpy" />
+  
+  <!-- Visualization -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  
+  <!-- AI / ML (Learning) -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-blue?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-Learning-orange?style=for-the-badge" />
 </p>
 
 ---
