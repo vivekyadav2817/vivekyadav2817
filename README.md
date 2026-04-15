@@ -13,7 +13,8 @@
 - 📊 Skilled in **SQL, Power BI, Excel, and Python (NumPy, Pandas)**  
 - 📈 Experienced in **Data Analysis, Dashboarding, and KPI tracking**  
 - 🤖 Currently learning **Machine Learning, Generative AI & LLMs**  
-- 📫 Reach me at: **kelravi022@gmail.com**  
+- 📫 Reach me at: **kelravi022@gmail.com**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TxBRpO7l0df55ua-ixKND5w3dLFqyKeP/view?pli=1https://drive.google.com/drive/my-drive)
 
 ---
 
