@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-**Programming (Optional)**
+**Programming**
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
