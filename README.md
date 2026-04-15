@@ -14,7 +14,7 @@
 - 📈 Experienced in **Data Analysis, Dashboarding, and KPI tracking**  
 - 🤖 Currently learning **Machine Learning, Generative AI & LLMs**  
 - 📫 Reach me at: **kelravi022@gmail.com**
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1TxBRpO7l0df55ua-ixKND5w3dLFqyKeP/view?pli=1https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1TS3vM5KjLP6z4QleM7MeLXs6EUpXkmve/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TS3vM5KjLP6z4QleM7MeLXs6EUpXkmve/view?usp=sharing)
 
 ---
 
