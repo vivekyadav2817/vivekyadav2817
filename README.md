@@ -3,8 +3,8 @@
 MBA Graduate transitioning into Data Analytics.
 Passionate about turning raw data into business insights.
 
-## About Me
-- Currently learning: Python & Advanced SQL
+## About Me 
+💼 MIS Specialist & Data Analyst | SQL | Power BI | Excel
 - Skills: SQL · Power BI · Excel · Python
 - Email: kelravi022@gmail.com
 
