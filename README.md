@@ -7,6 +7,7 @@ Passionate about turning raw data into business insights.
 - Currently learning: Python & Advanced SQL
 - Skills: SQL · Power BI · Excel · Python
 - Email: kelravi022@gmail.com
+- Linkedin : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav2817)
 
 ## My Projects
 | Project | Tools Used | Description |
@@ -23,4 +24,4 @@ Passionate about turning raw data into business insights.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vivekyadav2817)
+
