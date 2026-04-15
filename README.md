@@ -61,7 +61,7 @@
 ### 📌 Featured Projects
 
 - 🏏 **IPL Performance Analysis** (SQL + Excel)  
-- 🛒 **Amazon E-Commerce Dashboard** (Power BI)  
+- 🛒 **Amazon E-Commerce Dashboard** (Power BI + SQL + Excel)  
 - 🎫 **IT Ticket Analysis** (Excel Dashboard)  
 
 ---
