@@ -1,15 +1,14 @@
 <h2 align="left">
 Hi, I’m Vivek 👋  
+I’m building my career as a Data Analyst, focused on transforming raw data into actionable business insights.  
 
-I’m building my career as a Data Analyst, focused on turning raw data into meaningful insights that drive smarter business decisions. With a background in sales and an MBA in Finance, I bring a strong understanding of business problems and translate them into data-driven solutions.
+I have hands-on experience in SQL, Power BI, and Excel, where I analyze data and build dashboards to support decision-making. I also use Python with libraries like NumPy and Pandas for data cleaning and analysis.  
 
-I work with tools like Excel and SQL to analyze data at a granular level, and use Power BI to create clear, impactful dashboards that help stakeholders take action. I also use Python for data analysis, leveraging libraries like NumPy and Pandas to clean, manipulate, and extract insights from data efficiently.
+My work includes identifying trends, measuring performance, and deriving insights that help improve business outcomes.  
 
-My approach is simple—understand the problem, analyze the data, and deliver insights that actually make a difference. I have experience with A/B testing to evaluate business strategies, along with a foundational understanding of supervised and unsupervised machine learning techniques.
+Currently, I am in the learning phase of AI, exploring concepts like machine learning, Generative AI, and Large Language Models (LLMs).  
 
-Currently, I am expanding my skill set by learning Generative AI and Large Language Models (LLMs) to explore how AI can further enhance data-driven decision-making.
-
-For me, data analysis is not just about numbers—it’s about uncovering patterns, optimizing performance, and helping businesses grow efficiently.
+I’m passionate about using data to solve real-world problems and drive business growth.
 
 ###
 
