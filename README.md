@@ -1,6 +1,6 @@
 <h2 align="left">
 Hi, I’m Vivek 👋  
-I’m building my career as a Data Analyst, focused on transforming raw data into actionable business insights.  
+I’m building my career as a Business Analyst, focused on transforming raw data into actionable business insights.  
 
 I have hands-on experience in SQL, Power BI, and Excel, where I analyze data and build dashboards to support decision-making. I also use Python with libraries like NumPy and Pandas for data cleaning and analysis.  
 
