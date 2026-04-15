@@ -20,7 +20,7 @@
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="kelravi022@gmail.com">
+<a href=""mailto:kelravi022@gmail.com">>
   <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vivekyadav2817/"target="_blank">
