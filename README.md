@@ -1,37 +1,52 @@
-[![Header](https://user-images.githubusercontent.com/74038190/212284100-8a64f1a8-cc1f-4f3a-9f8b-4c9d3b6a6e0e.gif)](https://github.com/vivekyadav2817)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-8a64f1a8-cc1f-4f3a-9f8b-4c9d3b6a6e0e.gif)](https://github.com/vivekyadav2817)
 
 <h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 <h3 align="center">Data Analyst | SQL • Power BI • Excel • Python</h3>
 
----
-
-### About Me
-
-I am a Data Analyst focused on transforming raw data into actionable business insights.  
-I have hands-on experience in SQL, Power BI, Excel, and Python (NumPy, Pandas), working on data analysis, dashboard development, and performance tracking.
-
-Currently, I am expanding my knowledge in Machine Learning, Generative AI, and Large Language Models (LLMs).
+<img align="right" alt="Analytics" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-### Skills
+### 🚀 About Me
 
-- SQL (Data Extraction, Joins, Aggregations)  
-- Power BI (Dashboards, DAX, Data Modeling)  
-- Excel (Pivot Tables, Advanced Formulas, Data Cleaning)  
-- Python (NumPy, Pandas for data analysis)  
-
----
-
-### Projects
-
-- IPL Performance Analysis (SQL, Excel)  
-- Amazon E-Commerce Analysis (Power BI)  
-- IT Ticket Analysis (Excel Dashboard)  
+- 🔍 Focused on **transforming data into actionable business insights**  
+- 📊 Skilled in **SQL, Power BI, Excel, and Python (NumPy, Pandas)**  
+- 📈 Experienced in **data analysis, dashboarding, and KPI tracking**  
+- 🤖 Currently learning **Machine Learning, Generative AI & LLMs**  
+- 📫 Reach me at: **youractualemail@gmail.com**  
 
 ---
 
-### Contact
+### 📬 Connect with Me
+<p align="left">
+<a href="mailto:youractualemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-- Email: youractualemail@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
+---
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,python,pandas,numpy" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🏏 **IPL Performance Analysis** (SQL + Excel)  
+- 🛒 **Amazon E-Commerce Dashboard** (Power BI)  
+- 🎫 **IT Ticket Analysis** (Excel Dashboard)  
+
+---
+
+### ⚡ My Approach
+
+I believe in letting data drive decisions.  
+I focus on uncovering patterns, solving business problems, and delivering insights that create measurable impact.
+
+---
